@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 mx: cfee3cd2a8744c6c.mx2.emailprofi.seznam.cz
 mx: cfee3cd2a8744c6c.mx1.emailprofi.seznam.cz
-max_age: 86400
+max_age: 1209600
